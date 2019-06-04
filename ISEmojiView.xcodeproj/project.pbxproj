@@ -58,6 +58,12 @@
 		0D7B3266227544EF0040F427 /* PageControlBottomView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D7B3263227544EF0040F427 /* PageControlBottomView.xib */; };
 		0D7B3267227544EF0040F427 /* EmojiCollectionView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D7B3264227544EF0040F427 /* EmojiCollectionView.xib */; };
 		0D7B3268227544EF0040F427 /* CategoriesBottomView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D7B3265227544EF0040F427 /* CategoriesBottomView.xib */; };
+		DD1F51B322A6883200C0FBCF /* ic_backspace.png in Resources */ = {isa = PBXBuildFile; fileRef = DD1F51B022A6883200C0FBCF /* ic_backspace.png */; };
+		DD1F51B422A6883200C0FBCF /* ic_backspace@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DD1F51B122A6883200C0FBCF /* ic_backspace@2x.png */; };
+		DD1F51B522A6883200C0FBCF /* ic_backspace@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DD1F51B222A6883200C0FBCF /* ic_backspace@3x.png */; };
+		DD1F51B922A6883C00C0FBCF /* ic_carriage-return.png in Resources */ = {isa = PBXBuildFile; fileRef = DD1F51B622A6883B00C0FBCF /* ic_carriage-return.png */; };
+		DD1F51BA22A6883C00C0FBCF /* ic_carriage-return@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DD1F51B722A6883B00C0FBCF /* ic_carriage-return@2x.png */; };
+		DD1F51BB22A6883C00C0FBCF /* ic_carriage-return@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DD1F51B822A6883C00C0FBCF /* ic_carriage-return@3x.png */; };
 		E9094FBF229297EE00634195 /* ISEmojiList_iOS11.plist in Resources */ = {isa = PBXBuildFile; fileRef = E9094FBE229297EE00634195 /* ISEmojiList_iOS11.plist */; };
 /* End PBXBuildFile section */
 
@@ -115,6 +121,12 @@
 		0D7B3263227544EF0040F427 /* PageControlBottomView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PageControlBottomView.xib; sourceTree = "<group>"; };
 		0D7B3264227544EF0040F427 /* EmojiCollectionView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EmojiCollectionView.xib; sourceTree = "<group>"; };
 		0D7B3265227544EF0040F427 /* CategoriesBottomView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CategoriesBottomView.xib; sourceTree = "<group>"; };
+		DD1F51B022A6883200C0FBCF /* ic_backspace.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_backspace.png; sourceTree = "<group>"; };
+		DD1F51B122A6883200C0FBCF /* ic_backspace@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_backspace@2x.png"; sourceTree = "<group>"; };
+		DD1F51B222A6883200C0FBCF /* ic_backspace@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_backspace@3x.png"; sourceTree = "<group>"; };
+		DD1F51B622A6883B00C0FBCF /* ic_carriage-return.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_carriage-return.png"; sourceTree = "<group>"; };
+		DD1F51B722A6883B00C0FBCF /* ic_carriage-return@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_carriage-return@2x.png"; sourceTree = "<group>"; };
+		DD1F51B822A6883C00C0FBCF /* ic_carriage-return@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_carriage-return@3x.png"; sourceTree = "<group>"; };
 		E9094FBE229297EE00634195 /* ISEmojiList_iOS11.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ISEmojiList_iOS11.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -281,6 +293,12 @@
 		0D3A9A6A2115E36100279297 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				DD1F51B622A6883B00C0FBCF /* ic_carriage-return.png */,
+				DD1F51B722A6883B00C0FBCF /* ic_carriage-return@2x.png */,
+				DD1F51B822A6883C00C0FBCF /* ic_carriage-return@3x.png */,
+				DD1F51B022A6883200C0FBCF /* ic_backspace.png */,
+				DD1F51B122A6883200C0FBCF /* ic_backspace@2x.png */,
+				DD1F51B222A6883200C0FBCF /* ic_backspace@3x.png */,
 				0D3A9A6B2115E36100279297 /* ic_emojiDelete@3x.png */,
 				0D3A9A6C2115E36100279297 /* ic_flags.png */,
 				0D3A9A6D2115E36100279297 /* ic_activity.png */,
@@ -408,6 +426,7 @@
 				0D3A9ABC2115E36200279297 /* ISEmojiList_iOS10.plist in Resources */,
 				0D3A9AA02115E36200279297 /* ic_travel_places.png in Resources */,
 				0D3A9AB32115E36200279297 /* ic_symbols@2x.png in Resources */,
+				DD1F51B422A6883200C0FBCF /* ic_backspace@2x.png in Resources */,
 				0D3A9AAA2115E36200279297 /* ic_food_drink.png in Resources */,
 				0D3A9A9D2115E36200279297 /* ic_emojiDelete@3x.png in Resources */,
 				0D3A9AA92115E36200279297 /* ic_emojiDelete.png in Resources */,
@@ -418,6 +437,7 @@
 				0D3A9AB12115E36200279297 /* ic_recents@2x.png in Resources */,
 				0D7B3268227544EF0040F427 /* CategoriesBottomView.xib in Resources */,
 				0D3A9AAC2115E36200279297 /* ic_smileys_people@3x.png in Resources */,
+				DD1F51B922A6883C00C0FBCF /* ic_carriage-return.png in Resources */,
 				0D3A9A9E2115E36200279297 /* ic_flags.png in Resources */,
 				E9094FBF229297EE00634195 /* ISEmojiList_iOS11.plist in Resources */,
 				0D3A9ABA2115E36200279297 /* ic_activity@3x.png in Resources */,
@@ -426,10 +446,14 @@
 				0D3A9AB02115E36200279297 /* ic_recents@3x.png in Resources */,
 				0D3A9AA82115E36200279297 /* ic_objects@3x.png in Resources */,
 				0D3A9AA42115E36200279297 /* ic_objects@2x.png in Resources */,
+				DD1F51B522A6883200C0FBCF /* ic_backspace@3x.png in Resources */,
 				0D3A9AA32115E36200279297 /* ic_food_drink@2x.png in Resources */,
+				DD1F51B322A6883200C0FBCF /* ic_backspace.png in Resources */,
 				0D3A9AAD2115E36200279297 /* ic_symbols@3x.png in Resources */,
 				0D7B3266227544EF0040F427 /* PageControlBottomView.xib in Resources */,
 				0D3A9AAE2115E36200279297 /* ic_symbols.png in Resources */,
+				DD1F51BA22A6883C00C0FBCF /* ic_carriage-return@2x.png in Resources */,
+				DD1F51BB22A6883C00C0FBCF /* ic_carriage-return@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
